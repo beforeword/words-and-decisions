@@ -197,6 +197,26 @@ class Renderer:
         title = section["blocks"][start]
         parts = [anchor(title["id"]), "# " + self.atom(title["text"], f"sections[14].blocks[{start}].text"),
                  self.nav("example"), self.metadata()]
+        # This note belongs to the standalone reading route, not to the frozen
+        # publication excerpt. Keep it visibly separate from the source blocks.
+        if self.lang == "ru":
+            parts.extend([
+                "**Пояснение к чтению · редакторская вставка**",
+                "В [R8 ниже](#14-worked-outcome) прямо указано, что для этого составленного примера принято положение 4 из "
+                "[раздела 13](../docs/proposal.ru.md#13-proposal). Оно начинается словами: "
+                "«Не требовать признать себя написанным описанием.» Ссылки на положение 4 в дальнейшем разборе относятся к этому условию примера.",
+                "---",
+                "**[Текст примера · публикация 1.4, раздел 14](../docs/proposal.ru.md#14-worked-case)**",
+            ])
+        else:
+            parts.extend([
+                "**Reading note · editorial addition**",
+                "[R8 below](#14-worked-outcome) explicitly states that this constructed example adopts Provision 4 from "
+                "[section 13](../docs/proposal.en.md#13-proposal). Its opening requirement reads: "
+                "“Do not require anyone to accept that they are the written description.” References to Provision 4 in the examination below apply that condition within the example.",
+                "---",
+                "**[Example text · publication 1.4, section 14](../docs/proposal.en.md#14-worked-case)**",
+            ])
         parts.extend(self.block(b, f"sections[14].blocks[{i}]", 2)
                      for i, b in enumerate(section["blocks"]) if i > start)
         return "\n\n".join(parts) + "\n"

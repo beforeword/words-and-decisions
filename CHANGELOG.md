@@ -1,5 +1,21 @@
 # Publication history / История публикации
 
+## Reading guide update / Обновление входа в публикацию — 2026-10-03
+
+- Clarified the distinction between using a label and accepting that one is the written description in both repository introductions.
+- Explained the separate questions examined in AI claims; added direct section links, the v1.4 release and document downloads.
+- Added a labelled reading note to the standalone worked example, identifying its use of Provision 4 before the example begins.
+
+These changes concern the repository introductions and reading guidance. The publication text, its structured editions, and the PDF/DOCX files remain version 1.4; the release tag retains that edition.
+
+### По-русски
+
+- В обоих вступлениях сопоставлены употребление обозначения и требование признать себя написанным описанием.
+- Раскрыты отдельные вопросы к утверждениям об ИИ; добавлены прямые переходы к разделам, выпуску v1.4 и загрузкам документов.
+- Перед самостоятельным примером добавлено обозначенное пояснение к чтению: в этом составленном случае применяется положение 4.
+
+Изменения относятся к вступлениям и сопровождению чтения в репозитории. Текст публикации, структурированные редакции и файлы PDF/DOCX сохраняют версию 1.4; тег выпуска закрепляет эту редакцию.
+
 ## 1.4 — 2026-10-03
 
 First GitHub publication of **Self-description and decisions based on records**, version 1.4.

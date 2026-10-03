@@ -6,6 +6,14 @@
 
 Public proposal · Version 1.4 · 2026-10-03 · Kirill Shebetov
 
+**Reading note · editorial addition**
+
+[R8 below](#14-worked-outcome) explicitly states that this constructed example adopts Provision 4 from [section 13](../docs/proposal.en.md#13-proposal). Its opening requirement reads: “Do not require anyone to accept that they are the written description.” References to Provision 4 in the examination below apply that condition within the example.
+
+---
+
+**[Example text · publication 1.4, section 14](../docs/proposal.en.md#14-worked-case)**
+
 The following case concerns progression to the next exercise in a course. The case, roles, deadlines and rules are constructed for this example. They do not describe a particular organization’s procedure or propose one mandatory deadline for every field.
 
 **The example’s material: five separate records**
