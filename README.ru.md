@@ -45,10 +45,8 @@
 | Русский | [PDF](https://github.com/beforeword/words-and-decisions/releases/download/v1.4/beforeword_words_and_decisions_RU.pdf) | [DOCX](https://github.com/beforeword/words-and-decisions/releases/download/v1.4/beforeword_words_and_decisions_RU.docx) |
 | English | [PDF](https://github.com/beforeword/words-and-decisions/releases/download/v1.4/beforeword_words_and_decisions_EN.pdf) | [DOCX](https://github.com/beforeword/words-and-decisions/releases/download/v1.4/beforeword_words_and_decisions_EN.docx) |
 
-## Обсуждение и состав репозитория
+## Обсуждение
 
 Возражение не требует согласия с beforeword. Достаточно указать фрагмент, оспариваемое прочтение или требование, предложенные основания и запрошенное изменение. См. [порядок внесения замечаний](CONTRIBUTING.md#по-русски) и [историю публикации](CHANGELOG.md).
-
-Языковые редакции сохранены в [`content/ru.json`](content/ru.json) и [`content/en.json`](content/en.json). Скрипт [`scripts/render_publication.py`](scripts/render_publication.py) формирует из них файлы для чтения в Markdown.
 
 [Инструкция beforeword для ИИ](https://github.com/beforeword/beforeword) — отдельная публикация со своими версиями. В этом репозитории находится публичное предложение; его размещение не устанавливает инструкцию в модели и не определяет, как модель ответит.

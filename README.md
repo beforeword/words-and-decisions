@@ -45,10 +45,8 @@ The ten public statements are an editorial selection, not a ranking of influence
 | English | [PDF](https://github.com/beforeword/words-and-decisions/releases/download/v1.4/beforeword_words_and_decisions_EN.pdf) | [DOCX](https://github.com/beforeword/words-and-decisions/releases/download/v1.4/beforeword_words_and_decisions_EN.docx) |
 | Русский | [PDF](https://github.com/beforeword/words-and-decisions/releases/download/v1.4/beforeword_words_and_decisions_RU.pdf) | [DOCX](https://github.com/beforeword/words-and-decisions/releases/download/v1.4/beforeword_words_and_decisions_RU.docx) |
 
-## Discuss or inspect
+## Discussion
 
 An objection does not require agreement with beforeword. Identify the passage, the reading or requirement being challenged, the grounds offered and the proposed change. See [contribution guidance](CONTRIBUTING.md) and [publication history](CHANGELOG.md).
-
-The language editions are stored in [`content/en.json`](content/en.json) and [`content/ru.json`](content/ru.json). [`scripts/render_publication.py`](scripts/render_publication.py) renders the Markdown reading files from those editions.
 
 The [beforeword instructions for AI](https://github.com/beforeword/beforeword) are a separate publication with their own versions. This repository contains the public proposal; it does not install instructions in a model or establish how a model will respond.

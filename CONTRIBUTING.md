@@ -13,6 +13,10 @@ For a translation change, show both language passages and explain the difference
 
 Keep proposed edits separate from the publication’s existing wording. Changes to a constructed example should retain its label. Changes to the public-statement selection should state why a record is added, replaced or removed.
 
+### Source files
+
+The language editions are stored in [`content/en.json`](content/en.json) and [`content/ru.json`](content/ru.json). [`scripts/render_publication.py`](scripts/render_publication.py) renders the Markdown reading files from those editions.
+
 ## По-русски
 
 Замечания на русском и английском можно предложить через issue или pull request. Согласие с beforeword не требуется.
@@ -27,3 +31,7 @@ Keep proposed edits separate from the publication’s existing wording. Changes 
 Для изменения перевода покажи фрагменты на обоих языках и поясни различие. Для исправления цитаты приложи исходный фрагмент и укажи его расположение. Ссылка добавляет материал для разбора, а не превращает написанное в описываемое.
 
 Предлагаемые правки предъявляются отдельно от действующей редакции. При изменении составленного примера сохраняется обозначение его статуса. При изменении подборки публичных заявлений указывается, почему запись предлагается добавить, заменить или убрать.
+
+### Исходные файлы
+
+Языковые редакции сохранены в [`content/ru.json`](content/ru.json) и [`content/en.json`](content/en.json). Скрипт [`scripts/render_publication.py`](scripts/render_publication.py) формирует из них файлы для чтения в Markdown.
