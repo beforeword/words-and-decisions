@@ -1,30 +1,21 @@
-# On what grounds?
+# Self-description and decisions based on records
 
-[Читать по-русски](README.ru.md) · [Read on the website](https://beforeword.xyz/proposal/en/)
+**English** · [Русский](README.ru.md)
 
-**Do not require anyone to accept that they are a written description.**
+Why should anyone have to accept learned words and numbers as who they are, who other people are or what the world is? That question is at the heart of the [Beforeword proposal](https://beforeword.xyz/proposal/en/).
 
-Two constructed requirements show the distinction:
+This study follows what happens when someone uses a description to make a decision about another person. A form might require you to repeat a sentence about yourself before you can go any further. You can repeat every word. What gives anyone the right to make your access to help depend on accepting that sentence as who you are?
 
-- “Enter this word in the field.”
-- “Accept that you are this written description.”
+Kirill Shebetov · Version 1.4 · 3 October 2026
 
-The second demands that the person described and the written description be accepted as one and the same. That demand is absent from the first. See [§03: using a label and accepting it as oneself](docs/proposal.en.md#03-self) and [§13: the proposed provisions](docs/proposal.en.md#13-proposal).
+**[Read the study on beforeword.xyz](https://beforeword.xyz/research/words-and-decisions/en/)** · [Download version 1.4 (PDF or Word)](https://github.com/beforeword/words-and-decisions/releases/tag/v1.4)
 
-When words are used to describe you, what demands are made on that basis—and how can you challenge them?
+## Read on GitHub
 
-**Self-description and decisions based on records** is a public proposal by Kirill Shebetov, published as part of [beforeword](https://beforeword.xyz/en/). Publication version **1.4 · 3 October 2026**.
-
-**[Download v1.4 — PDF / DOCX](https://github.com/beforeword/words-and-decisions/releases/tag/v1.4)**
-
-## Start here
-
-| Read | What it contains |
-| --- | --- |
-| [One worked example](examples/worked-case.en.md) | A constructed course assessment: an answer, a description, a condition for progression, an objection and a revised decision. |
-| [The proposal](docs/proposal.en.md) | The complete document: 21 sections, eight proposed provisions, examples and connections to earlier work. |
-| [Ten public statements about AI](docs/public-statements.en.md) | Excerpts, context, translations where applicable, and examination of what is added to the wording. |
-| [Materials and sources](docs/sources.en.md) | References used in the publication and the role assigned to each. |
+- [Full text](docs/proposal.en.md) — 21 sections, including [using a label and accepting it as oneself](docs/proposal.en.md#03-self) and [eight proposed provisions](docs/proposal.en.md#13-proposal).
+- [One worked example](examples/worked-case.en.md) — follow a fictional course assessment from the student’s answer to the decision and its review.
+- [Ten public statements about AI](docs/public-statements.en.md) — the original wording, its context and what readers infer from it.
+- [Materials and sources](docs/sources.en.md) — the references used in the study and what each contributes.
 
 ## What is proposed?
 
@@ -49,4 +40,4 @@ The ten public statements are an editorial selection, not a ranking of influence
 
 An objection does not require agreement with beforeword. Identify the passage, the reading or requirement being challenged, the grounds offered and the proposed change. See [contribution guidance](CONTRIBUTING.md) and [publication history](CHANGELOG.md).
 
-The [beforeword instructions for AI](https://github.com/beforeword/beforeword) are a separate publication with their own versions. This repository contains the public proposal; it does not install instructions in a model or establish how a model will respond.
+[Beforeword](https://beforeword.xyz/en/) also publishes [instructions for AI](https://github.com/beforeword/beforeword/blob/main/docs/ai-guide.en.md) with their own version history.
