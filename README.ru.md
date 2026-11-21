@@ -1,3 +1,8 @@
+<a href="https://beforeword.xyz/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beforeword/beforeword/main/brand/site-wordmark-dark.png">
+  <img src="https://raw.githubusercontent.com/beforeword/beforeword/main/brand/site-wordmark-light.png" width="152" alt="Beforeword">
+</picture></a>
+
 # Слова о себе и решения по записям
 
 [English](README.md) · **Русский**
