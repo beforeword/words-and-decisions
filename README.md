@@ -8,7 +8,7 @@ This study follows what happens when someone uses a description to make a decisi
 
 Kirill Shebetov · Version 1.4 · 3 October 2026
 
-**[Read the study on beforeword.xyz](https://beforeword.xyz/research/words-and-decisions/en/)** · [Download version 1.4 (PDF or Word)](https://github.com/beforeword/words-and-decisions/releases/tag/v1.4)
+**[Read the study on beforeword.xyz](https://beforeword.xyz/research/words-and-decisions/en/)** · [Download PDF](https://github.com/beforeword/words-and-decisions/releases/download/v1.4/beforeword_words_and_decisions_EN.pdf) · [Download Word](https://github.com/beforeword/words-and-decisions/releases/download/v1.4/beforeword_words_and_decisions_EN.docx)
 
 ## Read on GitHub
 

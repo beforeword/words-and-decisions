@@ -137,6 +137,9 @@ class Renderer:
         sibling = f"worked-case.{other}.md" if kind == "example" else f"{kind}.{other}.md"
         entries = [link("English" if lang == "ru" else "Русский", sibling),
                    link(self.labels["home"], "../README.ru.md" if lang == "ru" else "../README.md")]
+        if kind == "proposal":
+            study_url = ORIGIN + "/research/words-and-decisions/" + ("en/" if lang == "en" else "")
+            entries.insert(1, link(self.labels["site"], study_url))
         for key, label in [("proposal", "full"), ("sources", "sources"), ("public-statements", "statements")]:
             if kind != key:
                 entries.append(link(self.labels[label], base + f"{key}.{lang}.md"))

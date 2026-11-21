@@ -1,6 +1,6 @@
 # Слова о себе и решения по записям
 
-[English](proposal.en.md) · [О репозитории](../README.ru.md) · [Материалы и источники](sources.ru.md) · [Публичные заявления об ИИ](public-statements.ru.md) · [Законченный пример](../examples/worked-case.ru.md)
+[English](proposal.en.md) · [На сайте](https://beforeword.xyz/research/words-and-decisions/) · [О репозитории](../README.ru.md) · [Материалы и источники](sources.ru.md) · [Публичные заявления об ИИ](public-statements.ru.md) · [Законченный пример](../examples/worked-case.ru.md)
 
 Публичное предложение · Версия 1.4 · 2026-10-03 · Кирилл Шебетов
 

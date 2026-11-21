@@ -2,13 +2,13 @@
 
 [English](README.md) · **Русский**
 
-Почему кто-либо с рождения обязан принимать выученные слова и числа за себя, за других или за сам мир? Это вопрос, из которого выросло моё [предложение Beforeword](https://beforeword.xyz/proposal/).
+На каком основании от кого-либо с рождения требуют принимать выученные слова и числа за себя, за других или за сам мир? С этого вопроса начинается моё [предложение Beforeword](https://beforeword.xyz/proposal/).
 
 В этой работе я разбираю, что происходит, когда по записи принимают решение о человеке. Допустим, чтобы получить помощь, в анкете вас просят повторить фразу о себе. Вы можете повторить её слово в слово. На каком основании от вас требуют признать, что написанное и есть вы?
 
 Кирилл Шебетов · Версия 1.4 · 3 октября 2026 года
 
-**[Читать исследование на beforeword.xyz](https://beforeword.xyz/research/words-and-decisions/)** · [Скачать версию 1.4 (PDF или Word)](https://github.com/beforeword/words-and-decisions/releases/tag/v1.4)
+**[Читать исследование на beforeword.xyz](https://beforeword.xyz/research/words-and-decisions/)** · [Скачать PDF](https://github.com/beforeword/words-and-decisions/releases/download/v1.4/beforeword_words_and_decisions_RU.pdf) · [Скачать Word](https://github.com/beforeword/words-and-decisions/releases/download/v1.4/beforeword_words_and_decisions_RU.docx)
 
 ## Читать на GitHub
 

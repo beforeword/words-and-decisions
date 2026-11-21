@@ -1,6 +1,6 @@
 # Self-description and decisions based on records
 
-[Русский](proposal.ru.md) · [About this repository](../README.md) · [Materials and sources](sources.en.md) · [Public statements about AI](public-statements.en.md) · [Worked example](../examples/worked-case.en.md)
+[Русский](proposal.ru.md) · [On the website](https://beforeword.xyz/research/words-and-decisions/en/) · [About this repository](../README.md) · [Materials and sources](sources.en.md) · [Public statements about AI](public-statements.en.md) · [Worked example](../examples/worked-case.en.md)
 
 Public proposal · Version 1.4 · 2026-10-03 · Kirill Shebetov
 
